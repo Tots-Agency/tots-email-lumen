@@ -13,6 +13,5 @@ class EmailProvider extends ServiceProvider
      */
     public function boot()
     {
-        
     }
 }
